@@ -4421,3 +4421,123 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.08.27-14.02.35:566][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2026.08.27-14.02.35:569][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
 [2026.08.27-14.02.35:639][649]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.08.27-14.05.37:237][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.08.27-14.05.42:988][805]LogSlate: Window 'Salva contenuto' being destroyed
+[2026.08.27-14.05.43:031][805]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.08.27-14.05.43:066][805]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_Parkour] ([1] browsable assets)...
+[2026.08.27-14.05.43:066][805]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_Parkour]
+[2026.08.27-14.05.43:066][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_Parkour" FILE="../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/Input/Actions/IA_Parkour.uasset" SILENT=true
+[2026.08.27-14.05.43:076][805]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_Parkour
+[2026.08.27-14.05.43:076][805]LogSavePackage: Moving '../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Saved/IA_ParkourDCB781CA4DCAC491C10FAB8EB60F70A8.tmp' to '../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/Input/Actions/IA_Parkour.uasset'
+[2026.08.27-14.05.43:087][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/7W/46A84ONKQMPBJ609HMPWJB
+[2026.08.27-14.05.43:087][805]LogSavePackage: Moving '../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Saved/46A84ONKQMPBJ609HMPWJB968BCBFD4E1D72D176EF96897CD8105F.tmp' to '../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/7W/46A84ONKQMPBJ609HMPWJB.uasset'
+[2026.08.27-14.05.43:096][805]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/B0/4RO15JW091IQ5IB0MLB9DG
+[2026.08.27-14.05.43:096][805]LogSavePackage: Moving '../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Saved/4RO15JW091IQ5IB0MLB9DG6D39D92E424B84C7D404F79BF49D455B.tmp' to '../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/B0/4RO15JW091IQ5IB0MLB9DG.uasset'
+[2026.08.27-14.05.43:111][805]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.148 ms (total: 4.67 sec)
+[2026.08.27-14.05.43:148][805]LogStall: Shutdown...
+[2026.08.27-14.05.43:148][805]LogStall: Shutdown complete.
+[2026.08.27-14.05.43:226][805]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:226][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:306][805]LogSlate: Window 'NONSO - Unreal Editor' being destroyed
+[2026.08.27-14.05.43:721][805]LogContentValidation: Display: Starting to validate 3 assets
+[2026.08.27-14.05.43:721][805]LogContentValidation: Enabled validators:
+[2026.08.27-14.05.43:721][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.08.27-14.05.43:721][805]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.08.27-14.05.43:721][805]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.08.27-14.05.43:721][805]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.08.27-14.05.43:721][805]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.08.27-14.05.43:721][805]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.08.27-14.05.43:721][805]AssetCheck: /Game/Input/Actions/IA_Parkour Convalida asset
+[2026.08.27-14.05.43:721][805]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Convalida asset
+[2026.08.27-14.05.43:817][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.08.27-14.05.43:833][805]Cmd: QUIT_EDITOR
+[2026.08.27-14.05.43:833][805]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.08.27-14.05.43:834][805]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Saved/SourceControl/UncontrolledChangelists.json
+[2026.08.27-14.05.43:841][806]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.08.27-14.05.43:842][806]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.08.27-14.05.43:842][806]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.08.27-14.05.43:847][806]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:847][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:847][806]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2026.08.27-14.05.43:865][806]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.08.27-14.05.43:866][806]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.08.27-14.05.43:872][806]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.08.27-14.05.43:898][806]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:898][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:901][806]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:901][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:903][806]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:903][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:906][806]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:906][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:908][806]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:908][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:910][806]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:910][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:912][806]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:912][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:916][806]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:916][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:919][806]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.08.27-14.05.43:919][806]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.08.27-14.05.43:927][806]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.08.27-14.05.43:928][806]LogHttp: Warning: 	Sleeping 0.500s to wait for 1 outstanding Http Requests.
+[2026.08.27-14.05.44:429][806]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.08.27-14.05.44:433][806]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.08.27-14.05.44:554][806]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.08.27-14.05.44:554][806]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.08.27-14.05.44:554][806]LogAudio: Display: Audio Device unregistered from world 'Lvl_ThirdPerson'.
+[2026.08.27-14.05.44:554][806]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.08.27-14.05.44:554][806]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.08.27-14.05.44:558][806]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.08.27-14.05.44:574][806]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.08.27-14.05.44:575][806]LogAudio: Display: Audio Device Manager Shutdown
+[2026.08.27-14.05.44:577][806]LogWindowsTextInputMethodSystem: Activated input method: Italiano (Italia) - (Keyboard).
+[2026.08.27-14.05.44:586][806]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.08.27-14.05.44:587][806]LogExit: Preparing to exit.
+[2026.08.27-14.05.44:647][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.08.27-14.05.44:652][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:652][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:653][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.44:655][806]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.08.27-14.05.45:560][806]LogEditorDataStorage: Deinitializing
+[2026.08.27-14.05.45:788][806]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.08.27-14.05.45:887][806]LogExit: Editor shut down
+[2026.08.27-14.05.45:904][806]LogExit: Transaction tracking system shut down
+[2026.08.27-14.05.46:495][806]LogExit: Object subsystem successfully closed.
+[2026.08.27-14.05.46:618][806]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.08.27-14.05.46:914][806]LogMemoryProfiler: Shutdown
+[2026.08.27-14.05.46:916][806]LogNetworkingProfiler: Shutdown
+[2026.08.27-14.05.46:916][806]LoadingProfiler: Shutdown
+[2026.08.27-14.05.46:916][806]LogTimingProfiler: Shutdown
+[2026.08.27-14.05.46:921][806]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.08.27-14.05.46:921][806]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.08.27-14.05.47:826][806]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.08.27-14.05.47:838][806]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.08.27-14.05.47:838][806]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBC45AE5-4B1B-A10D-FFC1-38877AACF016%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=d19c70064b6435f5a0788288af357953%7Cbdf4b419b5e0497fb836fce46e104ae4%7Ccb1772d1-bce5-47ae-991d-08d4dd6d34cc&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.08.27-14.05.48:540][806]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.08.27-14.05.48:540][806]LogNFORDenoise: NFORDenoise function shutting down
+[2026.08.27-14.05.48:546][806]RenderDocPlugin: plugin has been unloaded.
+[2026.08.27-14.05.48:559][806]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.08.27-14.05.48:559][806]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.08.27-14.05.48:559][806]LogPakFile: Destroying PakPlatformFile
+[2026.08.27-14.05.49:279][806]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.08.27-14.05.49:355][806]LogExit: Exiting.
+[2026.08.27-14.05.49:396][806]Log file closed, 08/27/26 16:05:49
