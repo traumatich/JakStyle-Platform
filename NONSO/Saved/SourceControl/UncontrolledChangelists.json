@@ -18,8 +18,17 @@
 				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/Dodge_R.uasset",
 				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/Dodge_RUEFN.uasset",
 				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/BPC_COmponent.uasset",
-				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/E_dodge.uasset",
-				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/E_dodgeDirection.uasset"
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/E_dodgeDirection.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_Climb.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/7W/46A84ONKQMPBJ609HMPWJB.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_Climb_Montage.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_GettingUp__2_.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_GettingUp__2__Montage.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_JumpingDownFromWall.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_JumpingDownFromWall_Montage.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_Vault.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/climb/Anim_Vault_Montage.uasset",
+				"C:/Users/ripan/Documents/ProgettoUnrealJak/JakStyle-Platform/NONSO/Content/ThirdPerson/Blueprints/E_dodge.uasset"
 			]
 		}
 	]
