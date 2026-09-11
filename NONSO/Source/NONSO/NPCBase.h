@@ -17,7 +17,7 @@ protected:
 
 public:
 	virtual void Tick(float DeltaTime) override;
-	UFUNCTION(BlueprintNativeEvent, Category = "Interazione")
+	UFUNCTION(BlueprintNativeEvent, BlueprintCallable, Category = "Interazione")
 	void Interact(AActor* Interactor);
 	virtual void Interact_Implementation(AActor* Interactor);
 
